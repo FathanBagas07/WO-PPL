@@ -8,12 +8,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:worganice/main.dart';
+import 'package:worganice/app/app.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(const MyApp());
+    await tester.pumpWidget(const WOrganiceApp());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

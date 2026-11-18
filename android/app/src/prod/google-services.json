@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796592370692",
+    "project_id": "worganice",
+    "storage_bucket": "worganice.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796592370692:android:8e0c3e5370bfecd419b151",
+        "android_client_info": {
+          "package_name": "com.worganice.app.prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Wla-5AqbyJe9tY2SrCJeBUXceib86ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
