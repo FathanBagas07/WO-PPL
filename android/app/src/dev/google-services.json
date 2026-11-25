@@ -7,9 +7,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:987296198513:android:f3c825ed699679bbcdd0d0",
+        "mobilesdk_app_id": "1:987296198513:android:1cfc841b2a69cf35cdd0d0",
         "android_client_info": {
-          "package_name": "com.worganice.app.dev"
+          "package_name": "com.worganice.worganice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzZ2YzOGC_DVpfi9blAOor6u9fbybf5NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987296198513:android:d179759b1356dee8cdd0d0",
+        "android_client_info": {
+          "package_name": "com.worganice.worganice.dev"
         }
       },
       "oauth_client": [],
