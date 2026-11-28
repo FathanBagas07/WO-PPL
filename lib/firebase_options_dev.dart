@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDzZ2YzOGC_DVpfi9blAOor6u9fbybf5NU',
-    appId: '1:987296198513:android:1cfc841b2a69cf35cdd0d0',
+    appId: '1:987296198513:android:d179759b1356dee8cdd0d0',
     messagingSenderId: '987296198513',
     projectId: 'worganice-dev',
     storageBucket: 'worganice-dev.firebasestorage.app',
